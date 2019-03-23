@@ -28,9 +28,9 @@ MEDIA_DIR = BASE_DIR + "/media"
 SECRET_KEY = '+r7o@azzdih3fd3hyvtcvk(9v@o)sgw!_op8ox+j%=aovn5@pq'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS =  ["shoryu.pythonanywhere.com"]
 
 
 # Application definition
